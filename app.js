@@ -1,4 +1,5 @@
 const yourDate = new Date("2020-11-11T02:10:26"),
+console.log(yourDate);
 music = ['ido', 'noinaycoanh', 'nguoiamphu'];
 
 document.addEventListener('DOMContentLoaded', function(){
