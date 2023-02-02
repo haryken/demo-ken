@@ -1,5 +1,4 @@
-const yourDate = new Date("2023-2-3T02:10:26"),
-console.log(yourDate);
+const yourDate = new Date("2020-11-11T02:10:26"),
 music = ['ido', 'noinaycoanh', 'nguoiamphu'];
 
 document.addEventListener('DOMContentLoaded', function(){
